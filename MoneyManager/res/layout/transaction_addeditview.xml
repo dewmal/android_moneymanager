@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        style="@style/ActionBar" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/TextView03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/transaction_tv_accounts"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/RED"
+            android:textSize="22sp" />
+
+        <Spinner
+            android:id="@+id/transactions_sp_accounts"
+            style="@style/CodeFont"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/TextView02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/transaction_tv_category"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/RED"
+            android:textSize="22sp" />
+
+        <Spinner
+            android:id="@+id/transactions_sp_category"
+            style="@style/CodeFont"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/transaction_tv_disc"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/RED"
+            android:textSize="22sp" />
+
+        <EditText
+            android:id="@+id/transactions_et_desc"
+            style="@style/CodeFont"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/transaction_tv_amount"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/RED"
+            android:textSize="22sp" />
+
+        <EditText
+            android:id="@+id/transactions_et_amounts"
+            style="@style/CodeFont"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal" >
+
+            <requestFocus />
+        </EditText>
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/transactions_bt_clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="0.32"
+            android:background="@drawable/custom_details_button_rs"
+            android:text="@string/transaction_bt_clear"
+            android:textColor="@color/WHITE"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/transactions_bt_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="0.45"
+            android:background="@drawable/custom_details_button_rs"
+            android:text="@string/transaction_bt_add"
+            android:textColor="@color/WHITE"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:padding="20dp" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/loginreg_et_username"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/WHITE"
+            android:textSize="22sp" />
+
+        <EditText
+            android:id="@+id/account_add_et_accname"
+            style="@style/CodeFont"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/loginreg_et_password"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/WHITE"
+            android:textSize="22sp" />
+
+        <EditText
+            android:id="@+id/account_add_et_initbalance"
+            style="@style/CodeFont"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal" >
+
+            <requestFocus />
+        </EditText>
+        
+         <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="REtype Password"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/WHITE"
+            android:textSize="22sp" />
+
+        <EditText
+            android:id="@+id/regview_et_repassword"
+            style="@style/CodeFont"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal" >
+
+            <requestFocus />
+        </EditText>
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent" >
+
+            <Button
+                android:id="@+id/transactions_bt_clear"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="0.32"
+                android:background="@drawable/custom_details_button"
+                android:text="@string/loginreg_bt_cancel"
+                android:textColor="@color/WHITE"
+                android:textSize="25sp" />
+
+            <Button
+                android:id="@+id/transactions_bt_add"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="0.45"
+                android:background="@drawable/custom_details_button"
+                android:text="Register"
+                android:textColor="@color/WHITE"
+                android:textSize="25sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

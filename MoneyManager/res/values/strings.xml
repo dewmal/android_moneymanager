@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MoneyManagerActivity!</string>
+    <string name="app_name">MoneyManager</string>
+
+    <!-- Dash Board -->
+    <string name="dahsboard_bt_transactions">Transaction</string>
+    <string name="dahsboard_bt_accounts">Accounts</string>
+    <string name="dahsboard_bt_reports">Reports</string>
+
+    <!-- Transaction View -->
+    <string name="transaction_bt_add">Add</string>
+    <string name="transaction_bt_clear">Clear</string>
+    <string name="transaction_tv_accounts">Accounts</string>
+    <string name="transaction_tv_category">Transaction Category</string>
+    <string name="transaction_tv_disc">Description</string>
+    <string name="transaction_tv_amount">Amount</string>
+
+    <!-- Account View -->
+    <string name="account_bt_add">Add</string>
+    <string name="account_bt_clear">Clear</string>
+    <string name="account_et_accname">Account Name</string>
+    <string name="account_et_initbalance">Initial Balance</string>
+    <string name="account_et_currbalance">Current Balance</string>
+    <string name="account_et_addamount">Add Amount</string>
+    <string name="account_opm_addnew">Add Account</string>
+
+    <!-- Account View -->
+    <string name="default_bt_add">Add</string>
+    <string name="default_bt_clear">Clear</string>
+    <string name="loginreg_et_username">User Name</string>
+    <string name="loginreg_et_password">Password</string>
+    <string name="loginreg_bt_cancel">Cancel</string>
+    <string name="loginreg_bt_login">Login</string>
+    
+    
+    <!-- Transaction Catagory List -->
+    <string-array name="tr_cat_list">
+        <item >Genaral</item>
+        <item >Loan Payment</item>
+        <item >Shopping</item>    
+        <item >Entertaitment</item>
+        <item >Social Works</item>
+        
+    </string-array>
+        <string name="report_view_trbymonth">Transaction By Date</string>
+        <string name="report_view_trbyacc">Transaction By Accounts</string>
+        <string name="report_view_trbycat">Transaction By Catagory</string>
+
+    
+    
+</resources>

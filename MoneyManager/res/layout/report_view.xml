@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.markupartist.android.widget.ActionBar
+        android:id="@+id/actionbar"
+        style="@style/ActionBar" />
+
+    <Button
+        android:id="@+id/report_view_bt_bymonth"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_details_button_rs"
+        android:gravity="left"
+        android:layout_margin="5dp"
+        android:height="50dp"
+        android:padding="5dp"
+        android:text="@string/report_view_trbymonth"
+        android:textColor="@color/WHITE"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/report_view_bt_byacc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_details_button_rs"
+        android:gravity="left"
+       android:layout_margin="5dp"
+        android:height="50dp"
+        android:padding="5dp"
+        android:text="@string/report_view_trbyacc"
+        android:textColor="@color/WHITE"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/report_view_bt_bycat"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_details_button_rs"
+        android:gravity="left"
+        android:layout_margin="5dp"
+        android:height="50dp"
+        android:padding="5dp"
+        android:text="@string/report_view_trbycat"
+        android:textColor="@color/WHITE"
+        android:textSize="25sp" />
+
+</LinearLayout>

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/381/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart
+END
+PieChartBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/324/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/PieChartBuilder.java
+END
+ProjectStatusBubbleChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/212/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/ProjectStatusBubbleChart.java
+END
+BudgetDoughnutChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/371/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/BudgetDoughnutChart.java
+END
+AverageTemperatureChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/368/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/AverageTemperatureChart.java
+END
+SensorValuesChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/131/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/SensorValuesChart.java
+END
+SalesStackedBarChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/233/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/SalesStackedBarChart.java
+END
+SalesBarChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/212/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/SalesBarChart.java
+END
+TemperatureChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/313/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/TemperatureChart.java
+END
+IDemoChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/239/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/IDemoChart.java
+END
+AverageCubicTemperatureChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/264/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/AverageCubicTemperatureChart.java
+END
+CombinedTemperatureChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/372/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/CombinedTemperatureChart.java
+END
+SalesGrowthChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/129/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/SalesGrowthChart.java
+END
+SalesComparisonChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/374/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/SalesComparisonChart.java
+END
+ScatterChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/375/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/ScatterChart.java
+END
+XYChartBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/376/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/XYChartBuilder.java
+END
+AbstractDemoChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/381/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/AbstractDemoChart.java
+END
+BudgetPieChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/223/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/BudgetPieChart.java
+END
+MultipleTemperatureChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/373/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/MultipleTemperatureChart.java
+END
+ProjectStatusChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/212/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/ProjectStatusChart.java
+END
+TrigonometricFunctionsChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/110/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/TrigonometricFunctionsChart.java
+END
+WeightDialChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/126/trunk/achartengine/demo/org/achartengine/chartdemo/demo/chart/WeightDialChart.java
+END

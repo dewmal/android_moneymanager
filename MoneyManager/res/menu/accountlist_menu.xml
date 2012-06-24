@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/account_opm_addnew"
+          android:title="new_game"/>
+    <item android:id="@+id/account_opm_update"
+          android:title="Update List"/>
+</menu>

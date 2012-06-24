@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/420/trunk/achartengine
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/achartengine/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/382/trunk/achartengine/AndroidManifest.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/385/trunk/achartengine/build.xml
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/119/trunk/achartengine/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/380/trunk/achartengine/.classpath
+END
